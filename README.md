@@ -1,4 +1,5 @@
 ### Hi there 👋
+Working on making this for software enginerring class
 
 <!--
 **koskiar/koskiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-testing for 
+
